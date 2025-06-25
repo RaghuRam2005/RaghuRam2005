@@ -1,10 +1,10 @@
 ## Hi there 👋, I.m Raghu Ram
 
-🔭 I'm currently working on creating vision and speech models using pytorch
-🌱 I'm currently learning backend development using golang
-👯 I'm looking to collaborate on any projects based on python (I'm still learning go)
-💬 Ask me about Machine learning or python
-📫 How to reach me: <a href="https://linkedin.com/in/raghu-ram-sai-lingutla-atom" target="blank">LinkedIn</a>
+-🔭 I'm currently working on creating vision and speech models using pytorch
+-🌱 I'm currently learning backend development using golang
+-👯 I'm looking to collaborate on any projects based on python (I'm still learning go)
+-💬 Ask me about Machine learning or python
+-📫 How to reach me: <a href="https://linkedin.com/in/raghu-ram-sai-lingutla-atom" target="blank">LinkedIn</a>
 <!--
 **RaghuRam2005/RaghuRam2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
