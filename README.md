@@ -21,11 +21,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat\&logo=github\&logoColor=white)
 
-
-## 📈 GitHub Stats
-
-![\<RaghuRam2005>'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRam2005\&show_icons=true\&count_private=true\&hide=prs\&theme=tokyonight)
-
 ## 🤝 Let's Collaborate!
 
 * **Open to collaborations** on any **machine learning**, **AI**, or **Python** projects.
@@ -34,3 +29,7 @@
 ## 💬 Fun Fact
 
 * I'm also a big fan of learning about lastest **vulnerabilities** in different applications.
+
+## 📈 GitHub Stats
+
+![\<RaghuRam2005>'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRam2005\&show_icons=true\&count_private=true\&hide=prs\&theme=tokyonight)
