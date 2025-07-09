@@ -32,7 +32,7 @@
 ## 📈 GitHub Stats
 
 ![\<RaghuRam2005>'s GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaghuRam2005\&show_icons=true\&count_private=true\&hide=prs\&theme=tokyonight)
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=RaghuRam2005&theme=radical&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuRam2005&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuRam2005&theme=tokyonight_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
