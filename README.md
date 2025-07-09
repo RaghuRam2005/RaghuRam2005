@@ -1,8 +1,8 @@
 ## Hi there 👋, I.m **Raghu Ram**
 
 - 🔭 I'm currently working on creating vision and speech models using pytorch
-- 🌱 I'm currently learning application development using C sharp
-- 👯 I'm looking to collaborate on any projects based on python (I'm still learning C sharp)
+- 🌱 I'm currently learning full stack development (Typescript, react, Nodejs) and deep learning
+- 👯 I'm looking to collaborate on any projects based on python or Typescript
 - 💬 Ask me about Machine learning or python
 - 📫 How to reach me: <a href="https://linkedin.com/in/raghu-ram-sai-lingutla-atom" target="blank">LinkedIn</a>
 
