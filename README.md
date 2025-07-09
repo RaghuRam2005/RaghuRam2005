@@ -23,7 +23,7 @@
 ## 🤝 Let's Collaborate!
 
 * **Open to collaborations** on any **machine learning**, **AI**, or **Python** projects.
-* Feel free to check out my **[open-source projects](https://github.com/RaghuRam2005)** or **reach out to me** for interesting ideas or challenges!
+* Feel free to check out my **[open-source projects](https://github.com/RaghuRam2005?tab=repositories)** or **reach out to me** for interesting ideas or challenges!
 
 ## 💬 Fun Fact
 
