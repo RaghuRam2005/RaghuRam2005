@@ -1,16 +1,14 @@
 ## Hi there 👋, I.m **Raghu Ram**
 
-- 🔭 I'm currently working on creating vision and speech models using pytorch
-- 🌱 I'm currently learning full stack development (Typescript, react, Nodejs) and deep learning
-- 👯 I'm looking to collaborate on any projects based on python or Typescript
+- 🔭 I'm currently working on federated learning algorithms
+- 🌱 I'm currently learning more about autonomous vechicles and object detection
+- 👯 I'm looking to collaborate on any projects based on python
 - 💬 Ask me about Machine learning or python
 - 📫 How to reach me: <a href="https://linkedin.com/in/raghu-ram-sai-lingutla-atom" target="blank">LinkedIn</a>
 
 ## 🚀 What I Do
 
 * **Deep Learning**: I'm learning various concepts that can be used to build cutting-edge model.
-
-* **Full Stack Development**: I'm currently exploring front-end development using React and backend using Node js
 
 ## 🔧 Technologies & Tools
 
